@@ -1,2 +1,2 @@
 # test-repo
-for tests
+This repo created for pull requests without fear =)
